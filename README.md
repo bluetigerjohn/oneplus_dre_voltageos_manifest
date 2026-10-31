@@ -13,7 +13,7 @@ These builds are unofficial. They are based on VoltageOS and on the LineageOS de
 | `kernel/oneplus/sm4350` | android_kernel_oneplus_sm4350_VOS_Test | lineage-23.2 |
 | `vendor/oneplus/dre` | proprietary_vendor_oneplus_dre_VOS_Test | lineage-23.2 |
 
-The device and hardware branches carry the changes needed for VoltageOS (product file renamed to `voltage_dre`, `vendor/voltage` and `device/voltage` paths, and a Doze fix). The kernel and vendor repos are unmodified forks of LineageOS and TheMuppets.
+The device and hardware branches carry the changes needed for VoltageOS (product file renamed to `voltage_dre`, `vendor/voltage` and `device/voltage` paths, and a Doze fix that would cause the build process to crash). The kernel and vendor repos are unmodified forks of LineageOS and TheMuppets.
 
 ## Usage
 
@@ -33,4 +33,4 @@ Everything else (camera, calls, VoLTE, fingerprint, T-Mobile variant) is still b
 
 ## BensonBuilds
 
-These builds are dedicated to Benson, who lived to be 18. Years ago, every time the Xbox 360 was turned on, he would run to the TV and bat at the logo as it animated. He is missed.
+After I work out the bugs, I will be hosting some signed builds. These build will dedicated to Benson, the XBox Cat who lived to be 18. Years ago, every time the Xbox 360 was turned on, he would run to the TV and bat at the logo as it animated. He is missed by me, his mom and the nearly 9 million people who got to see him at his best.
